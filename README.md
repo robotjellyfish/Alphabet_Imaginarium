@@ -1,8 +1,9 @@
 # <strong>Alphabet Imaginarium</strong>
-## 𝚨𝕃㏗ǟⰨⴕ 𝐈㎃ဌ㏌ᐂ𐦝ⅈ🅄𝙼
+
+# 𝐃ꔀ𝚂𝐏⎣Ꭿ🇾.   ⴕ𝛠✘ᡶ.   ㏌.   𝓡Ⲁ㎱⚙𝕄.    𝐍𝓞𝚃𝐄.    ⚡︎✟𝛶⎣ᘿ!
+
 This Unicode glyph scrambler replaces each typed character with a visually similar Unicode character. Glyphs are randomly selected from a predefined glossary and algorithmically scrambled to ensure the styles are drawn from randomized Unicode blocks.
 
-#### <strong> ᗟⅈꗟǷ𑴂ձᲧ  ⴕ𝛠✘ᡶ  ㏌  𐃗𝕠𝚘𝖑  𐋎𐍂ⴕⅈ𖹋ⴕⅈ¢  Ʀ𖬖ꤾ𐔣ⰢM  𝛮❍♱𖹏  𖬺ⴕ𐒋𐤋𝛠! </strong>
 
 
 
