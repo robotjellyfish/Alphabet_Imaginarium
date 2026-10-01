@@ -2,7 +2,8 @@
 ## 𝚨𝕃㏗ǟⰨⴕ 𝐈㎃ဌ㏌ᐂ𐦝ⅈ🅄𝙼
 This Unicode glyph scrambler replaces each typed character with a visually similar Unicode character. Glyphs are randomly selected from a predefined glossary and algorithmically scrambled to ensure the styles are drawn from randomized Unicode blocks.
 
-### <strong>GENERATE COOL ARTISTIC DISPLAY TEXT IN A RANSOM NOTE STYLE!</strong>
+#### <strong> ᗟⅈꗟǷ𑴂ձᲧ  ⴕ𝛠✘ᡶ  ㏌  𐃗𝕠𝚘𝖑  𐋎𐍂ⴕⅈ𖹋ⴕⅈ¢  Ʀ𖬖ꤾ𐔣ⰢM  𝛮❍♱𖹏  𖬺ⴕ𐒋𐤋𝛠! </strong>
+
 
 
 
