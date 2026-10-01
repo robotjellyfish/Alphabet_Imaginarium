@@ -8,5 +8,5 @@
 
 
 
-#### <i><strong>⚠ PLEASE READ BEFORE COPYING!</strong> 
-Generated text is for decorative use only—and should not be used as a substitute for readable text. Visually similar glyphs are different Unicode characters; therefore, software and screen readers can treat them differently, pronounce them unpredictably, or fail to display them at all. Keep names, instructions, and accessibility-critical text in ordinary readable characters.</i>
+* <strong>⚠ PLEASE READ BEFORE COPYING!</strong> 
+<i>Generated text is for decorative use only—and should not be used as a substitute for readable text. Visually similar glyphs are different Unicode characters; therefore, software and screen readers can treat them differently, pronounce them unpredictably, or fail to display them at all. Keep names, instructions, and accessibility-critical text in ordinary readable characters.</i>
