@@ -4,7 +4,7 @@
 
 ## This Unicode glyph scrambler replaces each typed character with a visually similar Unicode character. Glyphs are randomly selected from a predefined glossary and algorithmically scrambled to ensure the styles are drawn from randomized Unicode blocks.
 
-
+🅄𝑁𝕚𝕮𝙾𝑫𝙴 🄶𝕷𝐲ℙ𝙷 🅂𝗖𝐫𝙰𝕞ℬ𝐥ɛЯ
 
 
 
